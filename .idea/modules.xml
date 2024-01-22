@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2023.10.07/2023.10.07.iml" filepath="$PROJECT_DIR$/2023.10.07/2023.10.07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2023.10.28/2023.10.28.iml" filepath="$PROJECT_DIR$/2023.10.28/2023.10.28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2023.11.25/2023.11.25.iml" filepath="$PROJECT_DIR$/2023.11.25/2023.11.25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2023.12.09/2023.12.09.iml" filepath="$PROJECT_DIR$/2023.12.09/2023.12.09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024.01.20/2024.01.20.iml" filepath="$PROJECT_DIR$/2024.01.20/2024.01.20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-ujd-23-24.iml" filepath="$PROJECT_DIR$/.idea/java-ujd-23-24.iml" />
+    </modules>
+  </component>
+</project>
